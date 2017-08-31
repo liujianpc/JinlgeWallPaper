@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">坚果壁纸</string>
+    <string name="action_about">关于程序</string>
+    <string name="action_exit">退出程序</string>
+    <string name="title_content">坚果壁纸</string>
+    <string name="left">返回</string>
+    <string name="right">帮助</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_about">坚果播霸</string>
+    <string name="author">【版权】：Powered by Jingle.\n</string>
+    <string name="intro">【帮助】：\n1、壁纸有16种源：其中微软官方壁纸固定每天随机切换4张。\n
+        2、更新壁纸似乎后台进程服务，请勿使用加速软件，安全卫士等杀死更换壁纸的进程服务。以防该进程被杀死，可以将其添加到任务白名单。\n
+    </string>
+    <string name="feedback">【反馈建议】：ljlovelife@foxmail.com</string>
+    <string name="alipay">支付宝赞助</string>
+    <string name="thank">你的赞赏，是我开发的动力。</string>
+    <string name="wechat">微信赞助</string>
+
+</resources>
